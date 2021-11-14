@@ -89,10 +89,14 @@ namespace ConsumeEndPoints
                                             if (dataType == "JSON")
                                             {
                                                 ResponseAPIDTO response = JsonConvert.DeserializeObject<ResponseAPIDTO>(content);
-                                                if (response.Name == "Luke Skywalker")
+                                                if(response != null)
                                                 {
-                                                    Console.WriteLine($"found {response.Name}");
+                                                    if (response.Name == "Luke Skywalker")
+                                                    {
+                                                        Console.WriteLine($"found {response.Name}");
+                                                    }
                                                 }
+                                               
                                             }
                                             if (dataType == "XML")
                                             {
@@ -101,7 +105,11 @@ namespace ConsumeEndPoints
                                                 {
                                                     XmlSerializer serializer = new XmlSerializer(typeof(XMLDataDTO));
                                                     XMLDataDTO documentData = (XMLDataDTO)serializer.Deserialize(xDocument.CreateReader());
-                                                    //send somewhere
+                                                    if(documentData != null)
+                                                    {
+                                                        //send somewhere
+                                                    }
+
                                                 }
                                                 
                                             }
