@@ -1,0 +1,36 @@
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.exe
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.deps.json
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.runtimeconfig.json
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.runtimeconfig.dev.json
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.dll
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.pdb
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.AssemblyReference.cache
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.AssemblyInfoInputs.cache
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.AssemblyInfo.cs
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.CoreCompileInputs.cache
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.dll
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.pdb
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.genruntimeconfig.cache
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Data\basic_endpoints.json
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.CopyComplete
+C:\Users\RodneyMaphanga\Documents\Visual Studio 2019\Projects\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Data\bonus_endpoints.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.exe
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Data\basic_endpoints.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Data\bonus_endpoints.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.deps.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.runtimeconfig.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.runtimeconfig.dev.json
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.dll
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\ConsumeEndPoints.pdb
+D:\ConsumeEndPoints\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.AssemblyReference.cache
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.AssemblyInfoInputs.cache
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.AssemblyInfo.cs
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.CoreCompileInputs.cache
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.csproj.CopyComplete
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.dll
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.pdb
+D:\ConsumeEndPoints\obj\Debug\netcoreapp3.1\ConsumeEndPoints.genruntimeconfig.cache
